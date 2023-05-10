@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mark Walberg",
+        "age": 30,
+        "isMarried": true,
+        "hobbies": ["Water ski", "Hunting", "Acting"]
+    },
+    {
+        "name": "Johnny Cash",
+        "age": 57,
+        "isMarried": false,
+        "hobbies": ["Snowboarding", "Hunting", "Drinking", "Driving"]
+    },
+    {
+        "name": "Mike Tyson",
+        "age": 48,
+        "isMarried": false,
+        "hobbies": ["Working out", "Boxing"]
+    },
+    {
+        "name": "Lewis Hamilton",
+        "age": 28,
+        "isMarried": true,
+        "hobbies": ["Singing", "Music", "Partying", "Drinking", "Traveling"]
+    }
+]
